@@ -1,7 +1,4 @@
 ---
-classes:
-  - examplerole::base
-
 exampleprofile::basic::users:
   bafh:
     comment: 'Bastard Administrator From Hell'
